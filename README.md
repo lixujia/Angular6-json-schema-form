@@ -13,6 +13,10 @@ A [JSON Schema](http://json-schema.org) Form builder for Angular, similar to, an
 * [Mozilla](https://blog.mozilla.org/services/)'s [React JSON Schema Form](https://github.com/mozilla-services/react-jsonschema-form) for [React](https://facebook.github.io/react/) ([examples](https://mozilla-services.github.io/react-jsonschema-form/)), and
 * [Joshfire](http://www.joshfire.com)'s [JSON Form](http://github.com/joshfire/jsonform/wiki) for [jQuery](https://jquery.com) ([examples](http://ulion.github.io/jsonform/playground/))
 
+## Fork Note
+
+I only change the "range" component of Material-Design framwork from "slider" to "number".
+
 ## Check out the live demo and play with the examples
 
 [Check out some examples here.](https://hamidihamza.com/Angular6-json-schema-form)

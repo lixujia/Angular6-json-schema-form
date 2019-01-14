@@ -65,7 +65,7 @@ export class MaterialDesignFramework extends Framework {
     'image':           'none',
     'integer':         'number',
     'radiobuttons':    'button-group',
-    'range':           'slider',
+    'range':           'number',
     'submit':          'button',
     'tagsinput':       'chip-list',
     'wizard':          'stepper',
